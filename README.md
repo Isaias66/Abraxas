@@ -1,3 +1,2 @@
 # Abraxas
-
-Developed with Unreal Engine 4
+This project is being developed utilizing Unreal Engine
