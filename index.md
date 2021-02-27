@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Problem Statement](https://isaias66.github.io/Abraxas/problem.md)
+Check the [Problem Statement](https://isaias66.github.io/Abraxas/problem.md)
 You can use the [editor on GitHub](https://github.com/Isaias66/Abraxas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
