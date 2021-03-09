@@ -24,5 +24,8 @@ TBA
   -Buff Ability (Defense)
   ![Screenshot (13)](https://user-images.githubusercontent.com/77936719/110410519-3dede900-8046-11eb-91ec-1c17b1f08fea.png)
 
-- **Enemies:** TBA
+- **Enemies:** Enemies can be selected with the mouse cursor by the player. This will create a red ring around the enemy’s feet letting the player know that this enemy can be attacked. This selector will only allow the player to attack one enemy at a time, making certain strategies more viable. Throughout the level there will be wandering enemies that will recognize the player and attack on sight. It will be up to the player to decide how to approach certain situations and deal with certain levels. This will encourage different playstyles where the player may want to run instead of fighting back. Or the player may run and gun his way through each level on an endless rampage. 
+
+![TargetSelector](https://user-images.githubusercontent.com/77936719/110412130-eac96580-8048-11eb-96ef-bcedbfdd5fa9.png)
+
 - **Different Mechanics:** TBA
