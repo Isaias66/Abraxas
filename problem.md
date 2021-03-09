@@ -1,7 +1,7 @@
 # Problem Statement
 
 ## Project Idea
-TBA
+Our game will be utilizing aspects of platforming, navigation, and combat in a third person view to guide the player through our tower. This tower will contain 3 levels that each will have unique environments, enemies, and platforming to engage the player. These levels will give the player different and unique abilites in order to combat the wandering enimies and navigate across moving platforms. Within each level the player will be challenged with a unique task that they must complete before moving to the next level. 
 
 ## Scope
 TBA
