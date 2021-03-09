@@ -8,7 +8,7 @@ There will only be 3 levels incorporated into the game. These levels will range 
 
 ## Game Aspects
 - **Functionality:** TBA
-- **Level Structure:** TBA
+- **Level Structure:** Level pathing will take a linear branch form. This will encourage some exploration and different routes to take while navigating through the level. Many hazards and enemies will be scattered through the level and it will be up to the player to successfully transition between each level. There will also be different moving platforms that will move in certain patterns in order to create a sense of familiarity. 
 ![Level 1](https://user-images.githubusercontent.com/77936719/110409267-3cbbbc80-8044-11eb-9397-f9165bbf70ad.png)
 ![TrueInsideView](https://user-images.githubusercontent.com/77936719/110412733-e6ea1300-8049-11eb-942a-256ce87f2bc3.png)
 
