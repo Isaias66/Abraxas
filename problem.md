@@ -1,7 +1,7 @@
 # Problem Statement
 
 ## Project Idea
-Our game will be utilizing aspects of platforming, navigation, and combat in a third person view to guide the player through our tower. This tower will contain 3 levels that each will have unique environments, enemies, and platforming to engage the player. These levels will give the player different and unique abilites in order to combat the wandering enimies and navigate across moving platforms. Within each level the player will be challenged with a unique task that they must complete before moving to the next level. 
+Our game will be utilizing aspects of platforming, navigation, and combat in a third person view to guide the player through our tower. This tower will contain 3 levels that each will have unique environments, enemies, and platforming to engage the player. These levels will give the player different and unique abilities in order to combat the wandering enemies and navigate across moving platforms. Within each level the player will be challenged with a unique task that they must complete before moving to the next level. 
 
 ## Scope
 There will only be 3 levels incorporated into the game. These levels will range around medium to large in order to accomadate the platforms, enemies, and obejcts on each level. This amount of levels was chosen in order to dedicate more time to enviroment building and testing. This will give more depth to certain levels and more meaning in certain navigation. 
