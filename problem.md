@@ -10,7 +10,7 @@ There will only be 3 levels incorporated into the game. These levels will range 
 - **Functionality:** AI is implemented in the form of enemies. Different abilities, both offensive and defensive are implemented to help the player get through each level. Different mechanics are implemented with each level, these mechanics are talked about in more detail in a lower section.
 
 
-- **Level Structure:** Level pathing will take a linear branch form. This will encourage some exploration and different routes to take while navigating through the level. Many hazards and enemies will be scattered through the level and it will be up to the player to successfully transition between each level. There will also be different moving platforms that will move in certain patterns in order to create a sense of familiarity. 
+- **Level Structure:** Level pathing will take a vertical and linear branch form. Each level will consist of 3 floors filled with different tasks and challenges. This will encourage some exploration and different routes to take while navigating through the level. Many hazards and enemies will be scattered through the level and it will be up to the player to successfully transition between each level. There will also be different moving platforms that will move in certain patterns in order to create a sense of familiarity. 
 
 
 ![Level 1](https://user-images.githubusercontent.com/77936719/110409267-3cbbbc80-8044-11eb-9397-f9165bbf70ad.png)
@@ -35,4 +35,4 @@ There will only be 3 levels incorporated into the game. These levels will range 
 
 ![TargetSelector](https://user-images.githubusercontent.com/77936719/110412130-eac96580-8048-11eb-96ef-bcedbfdd5fa9.png)
 
-- **Different Mechanics:** Each level will incorporate some sort of new mechanic with it. To give an example, one level may add boost panels that push you in a horizontal direction, while a separate level adds a bounce panel, which is functionally the same to the boost panel, but works instead with vertical movement instead of the horizontal movement of the boost panel. This is just to give a couple of examples of the mechanics that would be added between levels.
+- **Different Mechanics:** Each level will incorporate some sort of new mechanic with it. To give an example, one level may add boost panels that push you in a horizontal direction, while a separate level adds a bounce panel, which is functionally the same to the boost panel, but works instead with vertical movement instead of the horizontal movement of the boost panel. Each level will be locked until the player finishes the given task or challenge. These are a couple of examples of the mechanics that would be added between levels.
