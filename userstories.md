@@ -39,4 +39,13 @@ As a consumer I want to see a diverse ability system.
 
 Every game that uses an ability system has a general attack ability and healing ability I would like to see the above ability system implemented with some more out of the box abilities like a cloaking, damage over time and maybe a debuff ability.
 
-## 3: Level Design
+## 3: UI
+As a consumer I would like to see a user interface that is beneficial for the game and gives enough information regarding stats and cooldowns.
+
+Elaboration: Games that use abilites as a main combat system tend to have an overwelming UI that has way too much information on it all at once. I would like to see a simple UI that has health, ability coodowns, and power or mana. UI's that constantly have cooldowns, buffs, etc popping on and off the screen can be very destracting for platformers. 
+
+Constraints: None
+
+Effort Estimation: 4-8 Person-hours
+
+Acceptance Test: A UI that taeks up no more than 1/8th of the screen but can still provide all the neccesary game information to make it effective.
