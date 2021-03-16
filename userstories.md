@@ -11,7 +11,7 @@ Effort Estimation: 6-8 person-hours
 Acceptance Test: Demonstrate different and branching choices when navigating each floor. Display different enemies and ability choices when encountering any enemy. Show different and unique platforms or mechanics when navigating in a floor or a level. 
 
 ## 2: Ability Functionality
-As a an RPG gamer, I would like to have a easy UI to choose my abilities. I would like to experience ease of life functionality when choosing my powers.
+As an RPG gamer, I would like to have a easy UI to choose my abilities. I would like to experience ease of life functionality when choosing my powers.
 
 Elaboration: Players should be able to easily access their powers and click and drag any ability they see fit. This customization should make the game friendlier to the casual player.
 
@@ -22,7 +22,7 @@ Effort Estimation: 2 person-hours
 Acceptance Test: Demonstrate the drag and drop aspect of the ability system. The hotbar should also be customizable depending on the player's desire and comfort.
 
 ## 3: Graphic/FX
-As a adventure gamer, I would be happy to see the implementation of advanced or creative special effects. I would like to see these neat graphics with the ability system and would appreciate time taken into the effects of each ability.
+As an adventure gamer, I would be happy to see the implementation of advanced or creative special effects. I would like to see these neat graphics with the ability system and would appreciate time taken into the effects of each ability.
 
 Elaboration: Each ability should display some sort of particle system. This could be done with the Unreal Engine Niagara system or the Cascade System. This should be seen within each cast or impact an enemy takes.
 
@@ -57,12 +57,12 @@ Acceptance Test: A diverse set of at least 6 unique abilities that will provide 
 ## 6: UI
 As a consumer I would like to see a user interface that is beneficial for the game and gives enough information regarding stats and cooldowns.
 
-Elaboration: Games that use abilites as a main combat system tend to have an overwelming UI that has way too much information on it all at once. I would like to see a simple UI that has health, ability coodowns, and power or mana. UI's that constantly have cooldowns, buffs, etc popping on and off the screen can be very destracting for platformers. 
+Elaboration: Games that use abilites as a main combat system tend to have an overwhelming UI that has way too much information on it all at once. I would like to see a simple UI that has health, ability cooldowns, and power or mana. UI's that constantly have cooldowns, buffs, etc popping on and off the screen can be very distracting for platformers. 
 
 Constraints: None
 
 Effort Estimation: 4-8 Person-hours
 
-Acceptance Test: A UI that taeks up no more than 1/8th of the screen but can still provide all the neccesary game information to make it effective.
+Acceptance Test: A UI that takes up no more than 1/8th of the screen but can still provide all the neccesary game information to make it effective.
 
 
