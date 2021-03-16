@@ -46,7 +46,13 @@ Acceptance Test: Somewhere between 8-12 abilities with the ability to hotkey and
 ## 5: Ability Specificity
 As a consumer I want to see a diverse ability system.
 
-Every game that uses an ability system has a general attack ability and healing ability I would like to see the above ability system implemented with some more out of the box abilities like a cloaking, damage over time and maybe a debuff ability.
+Elaboration: Every game that uses an ability system has a general attack ability and healing ability I would like to see the above ability system implemented with some more out of the box abilities like a cloaking, damage over time and maybe a debuff ability.
+
+Constraints: None
+
+Effort Estimation: 4-6 person-hours
+
+Acceptance Test: A diverse set of at least 6 unique abilities that will provide us (the users) with a good amount of ways to customize our character to fit our play style.
 
 ## 6: UI
 As a consumer I would like to see a user interface that is beneficial for the game and gives enough information regarding stats and cooldowns.
