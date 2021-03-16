@@ -39,4 +39,4 @@ As a consumer I want to see a diverse ability system.
 
 Every game that uses an ability system has a general attack ability and healing ability I would like to see the above ability system implemented with some more out of the box abilities like a cloaking, damage over time and maybe a debuff ability.
 
-## 3: 
+## 3: Level Design
