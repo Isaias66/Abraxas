@@ -11,11 +11,13 @@ Our game will contain 3 levels that house two floors. Each level will contain a 
 
 1.3 Acronyms, Abbreviations, Definitions
 
-Any important terms that are required to understand your project documents.
+-BB: Black Board (A supplimentary system to BT, assists in more specilized and customized actions for AI)
+-BT: Behavior Tree (A integrated system within Unreal Engine that programs descisions by AI)
 
 1.4 References
 
-AI Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/ArtificialIntelligence/index.html
+-AI Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/ArtificialIntelligence/index.html
+-Behavior Tree Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/index.html 
 
 ## 2. General Description of Product
 This section contains a longer but not exhaustive description of your product.
