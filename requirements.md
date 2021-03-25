@@ -45,7 +45,7 @@ There are multiple advantages and disadvantages to the game engine our project i
 
 2.6 Assumptions and Dependencies
 
-Does your system depend on external software packages? System assumptions? If so, describe them.
+Unreal Engine utilizes a graphics and image software database called Quixel. This was an external software that provided a multitude of different assets to incorporate into a project. Quixel was purchased by Unreal and is not implemented within the software for Unreal Engine. It is assumed that any PC running our project will be able to handle these assets at 30 FPS. However, since Quixel is automatically incorporated into Unreal Engine our project will not have any dependency issues when creating our project. 
 
 ## 3. Functional Requirements
 
