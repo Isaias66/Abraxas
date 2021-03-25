@@ -2,10 +2,10 @@
 # Requirements Specification for Abraxas
 ## 1. Introduction
 1.1 Purpose of Product
-A one-paragraph description of your product's purpose.
+The purpose of our project is to create a third-person RPG style platformer. This game will comprise of a unique ability system that houses 6-8 different abilities. Scattered throughout each level will be enemies, hazards, and a unique task that the player must finish before progressing into the next level. This will provide entertainment and creative approaches for the player to navigate during each level. This game will take place in a tall tower in which the player must climb in order to ascend to the next level. 
 
 1.2 Scope of Product
-A short description of your product's scope (what it includes and what it does not include). Part of your problem statement might be useful here, but focus on the scope of the product.
+Our game will contain 3 levels that house two floors. Each level will contain a new mechanic such as a bounce pad, hazardous pit, and moving platforms. This will not contain a skill tree progression system and instead provides the player with the customization of all their powers from the beginning. 
 
 1.3 Acronyms, Abbreviations, Definitions
 Any important terms that are required to understand your project documents.
