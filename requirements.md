@@ -45,7 +45,8 @@ There are multiple advantages and disadvantages to the game engine our project i
 Does your system depend on external software packages? System assumptions? If so, describe them.
 
 ## 3. Functional Requirements
-In a standard requirements document, you would have a LONG list of functional requirements here. You should put a link to your user story page here.
+
+Link to our User Stories Page: https://isaias66.github.io/Abraxas/userstories 
 
 ## 4. System and Non-functional Requirements
 4.1 External Interface Requirements (User,Hardware,Software,Communications)
