@@ -18,6 +18,7 @@ Our game will contain 3 levels that house two floors. Each level will contain a 
 
 - AI Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/ArtificialIntelligence/index.html
 - Behavior Tree Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/index.html 
+- Blackboard Documentation: https://docs.unrealengine.com/en-US/BlueprintAPI/AI/Components/Blackboard/index.html
 
 ## 2. General Description of Product
 This section contains a longer but not exhaustive description of your product.
