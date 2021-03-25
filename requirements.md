@@ -34,7 +34,7 @@ Basic overview of the capabilities of your product. This is not your list of fun
 
 2.4 User Characteristics and Expectations
 
-Describe your users and their abilities.
+The primary demographic of our users will comprise of casual to daily gamers who have a good sense of how video games work. These players can range from a variety of genres such as FPS, RPG, Adventure, or puzzle games. Although our primary group will be players who have experience with video games, our game is still very accessible and easy to learn for any newcomers to the video game realm. Most of our players will have some experience with game logic such as platforming, shooting, or running so there will not be a steep learning curve within our game. We expect our players to have basic knowledge of defeating enemies, navigating on basic platforms, and recognizing any tasks that may be presented before them.
 
 2.5 Constraints
 
