@@ -19,7 +19,7 @@ AI Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/Art
 This section contains a longer but not exhaustive description of your product.
 
 2.1 Context of Product
-Context or environment that your product will be in.
+Our product will be created and held in the Unreal Engine.  This is one of the more versatile and robust game engines for utilizing C++ and blueprints. This will forward our progression in our project by providing us with useful tools such as animation editors. Rather than utilizing separate third-party software, we will attempt to create all of our assets and code within on singular game engine. 
 
 2.2 Domain Model with Description
 Display and describe your domain model.
