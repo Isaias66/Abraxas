@@ -30,7 +30,10 @@ Display and describe your domain model.
 
 2.3 Product Functions (general)
 
-Basic overview of the capabilities of your product. This is not your list of functional requirements, but an overview. Part of your problem statement might be good here.
+Our product will contain a variety of RPG and platforming aspects that intersect with each other to create a challenging experience. Within this game there will be a basic inventory system where the player can drag and drop different abilities onto their hot bar. This hot bar will be located directed underneath the power gauge and will be able to hold up to 8 different abilities at a time. This will grant the player more freedom and customization as they progress through the levels.
+
+There will be a total of 7-8 abilities within this game. Each ability has certain aspects such as projectiles, DeBuffs, AoE, and Buffs to assist the player through the level. Many of these abilities will intertwine with the unique mechanic for each level. The UI for these abilities will be displayed in the bottom center of the player screen and are completely interactable by simply clicking on the ability's icon. Above the ability UI, there will also be a health and a power bar. These gauges will provide the player with a sense of strategy and planning on how they wish to use their powers
+
 
 2.4 User Characteristics and Expectations
 
