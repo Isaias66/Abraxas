@@ -38,7 +38,7 @@ Describe your users and their abilities.
 
 2.5 Constraints
 
-Describe any constraints on your system.
+There are multiple advantages and disadvantages to the game engine our project is utilizing. Unreal Engine utilizes C++ which can create difficulty with readability. This also correlates to the blueprint system which also utilizes C++, but the readability can decrease rapidly depending on the complexity of the code. There are no issues with computational power for graphics or real-world light simulations. 
 
 2.6 Assumptions and Dependencies
 
