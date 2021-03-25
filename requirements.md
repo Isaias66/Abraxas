@@ -13,7 +13,7 @@ Our game will contain 3 levels that house two floors. Each level will contain a 
 Any important terms that are required to understand your project documents.
 
 1.4 References
-Any external references needed to understand your project documents. Use URL links if possible.
+AI Documentation: https://docs.unrealengine.com/en-US/InteractiveExperiences/ArtificialIntelligence/index.html
 
 ## 2. General Description of Product
 This section contains a longer but not exhaustive description of your product.
