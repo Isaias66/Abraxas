@@ -21,7 +21,6 @@ Our game will contain 3 levels that house two floors. Each level will contain a 
 - Blackboard Documentation: https://docs.unrealengine.com/en-US/BlueprintAPI/AI/Components/Blackboard/index.html
 
 ## 2. General Description of Product
-This section contains a longer but not exhaustive description of your product.
 
 2.1 Context of Product
 
