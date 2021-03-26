@@ -54,8 +54,12 @@ Unreal Engine utilizes a graphics and image software database called Quixel. Thi
 Link to our User Stories Page: https://isaias66.github.io/Abraxas/userstories 
 
 ## 4. System and Non-functional Requirements
-4.1 External Interface Requirements (User,Hardware,Software,Communications)
-Describe what kinds of interfaces your product has, and what they do. Then list specific requirements using item numbers as NF.4.1.X.
+
+Our game will essentailly have three main interfaces
+
+- NF.4.1.1 :User interface in game with health, mana, and spells.
+- NF.4.1.2 :A main menu to start the game and customize options.
+- NF.4.1.3 :Loading screen
 
 4.2 Performance Requirements
 
@@ -67,18 +71,28 @@ The hardware will require at a low to semi moderate PC to perform at an operable
 - NF.4.2.4 GPU: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher.
 - NF.4.2.5 Video Card/DirectX Version: DirectX 11 or DirectX 12 compatible graphics card.
 
-
 4.3 Design Constraints
 
-Describe external requirements that will constrain your design choices. Then list specific requirements using item numbers as NF.4.3.X.
+Our design choices will have factors that include the users PC and some time constraints.
+ 
+- NF.4.3.1 :Users PC hardware.
+- NF.4.3.2 :Users monitor capabilities
+- NF.4.3.3 :Scene Boundaries
+- NF.4.3.4 :Getting correct physics for bounce bounce pad and other moving parts.
+- NF.4.3.5 :Mouse and Keyboard Inputs
+- NF.4.3.6 :Art Style
 
 4.4 Quality Requirements
 
-What quality expectations do your users have? Is your system life-critical? Describe such issues, then list specific requirements using item numbers as NF.4.4.X.
-
+- NF.4.4.1 :Textures that the player can recognize (ie. Stone, Sand, Wood, Fire...)
+- NF.4.4.2 :Art Style
+- NF.4.4.3 :Theme 
+- NF.4.4.4 :Non-essential Scenary
+- NF.4.4.5 :Recognizable Scenary
+ 
 4.5 Other Requirements
 
-Anything else you need to say. Use item numbers NF.4.5.X.
+- NF.4.5.1 :None at this time
 
 ## 5. Appendices
 
