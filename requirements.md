@@ -28,7 +28,9 @@ Our product will be created and held in the Unreal Engine.  This is one of the m
 
 2.2 Domain Model with Description
 
-Display and describe your domain model.
+![Abraxas Domain Model](https://user-images.githubusercontent.com/78187057/112574374-bc22ed00-8db3-11eb-80da-ccb9b735d87c.jpg)
+
+Each basic aspect of the game is placed into the model to show it's relation to other elements. This is accomplished using arrows and 1 to 2 descriptive words. The head of the arrow shows which element or elements the former element relates to, while simultaneously existing to hopefully guide the eye in the direction that it is supposed to be.
 
 2.3 Product Functions (general)
 
