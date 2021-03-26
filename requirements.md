@@ -61,11 +61,12 @@ Describe what kinds of interfaces your product has, and what they do. Then list 
 4.2 Performance Requirements
 
 The hardware will require at a low to semi moderate PC to perform at an operable state. 
-NF.4.2.1 OS: Windows 7/8/10 64-bit or Mac OSX Sierra
-NF.4.2.2 CPU: Quad-core Intel or AMD processor, 2.5 GHz or faster.
-NF.4.2.3 RAM: 8 GB, recommended to have at least 32 GB.
-NF.4.2.4 GPU: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher.
-NF.4.2.5 Video Card/DirectX Version: DirectX 11 or DirectX 12 compatible graphics card.
+
+- NF.4.2.1 OS: Windows 7/8/10 64-bit or Mac OSX Sierra
+- NF.4.2.2 CPU: Quad-core Intel or AMD processor, 2.5 GHz or faster.
+- NF.4.2.3 RAM: 8 GB, recommended to have at least 32 GB.
+- NF.4.2.4 GPU: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card or higher.
+- NF.4.2.5 Video Card/DirectX Version: DirectX 11 or DirectX 12 compatible graphics card.
 
 
 4.3 Design Constraints
