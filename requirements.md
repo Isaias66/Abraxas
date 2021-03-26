@@ -51,7 +51,7 @@ Unreal Engine utilizes a graphics and image software database called Quixel. Thi
 
 ## 3. Functional Requirements
 
-Link to our User Stories Page: https://isaias66.github.io/Abraxas/userstories 
+[Link to our User Stories Page](https://isaias66.github.io/Abraxas/userstories)
 
 ## 4. System and Non-functional Requirements
 
@@ -96,8 +96,8 @@ Our design choices will have factors that include the users PC and some time con
 
 ## 5. Appendices
 
-Contraints Documentation:
+Constraints Documentation:
 
-- Quixel: https://www.unrealengine.com/en-US/blog/unreal-engine-4-24-to-ship-with-free-quixel-megascans-unreal-studio-features-and-more
-- Minimum Requirements: https://docs.unrealengine.com/en-US/Basics/RecommendedSpecifications/index.html
+- [Quixel](https://www.unrealengine.com/en-US/blog/unreal-engine-4-24-to-ship-with-free-quixel-megascans-unreal-studio-features-and-more)
+- [Minimum Requirements](https://docs.unrealengine.com/en-US/Basics/RecommendedSpecifications/index.html)
 
