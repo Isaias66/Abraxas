@@ -65,7 +65,7 @@ Effort Estimation: 4-6 person-hours
 
 Acceptance Test: A diverse set of at least 6 unique abilities that will provide us (the users) with a good amount of ways to customize our character to fit our play style.
 
-## 5.1:
+## 5.1: Ability Usefullness
 As a consumer I would like to see useful abilities in the ability library.
 
 Elaboration:
