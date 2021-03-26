@@ -10,6 +10,17 @@ Effort Estimation: 6-8 person-hours
 
 Acceptance Test: Demonstrate different and branching choices when navigating each floor. Display different enemies and ability choices when encountering any enemy. Show different and unique platforms or mechanics when navigating in a floor or a level. 
 
+## 1.1: Jump Puzzles
+As a consumer I too would like to see challenging platforming but in the form of a jump puzzle.
+
+Elaboration: A good chunck of platformers today have some sort of puzzle system to them and I would like to see one in the form of a jump puzzle. If doesnt have to be an extremely elaborate jump puzzle but I think they are a fun obsticle to find in a platformer.
+
+Constraints: None
+
+Effort Estimation: An additional 1-3 hours
+
+Acceptance Test: A jump puzzle of some sort in the game at some point.
+
 ## 2: Ability Functionality
 As an RPG gamer, I would like to have a easy UI to choose my abilities. I would like to experience ease of life functionality when choosing my powers.
 
@@ -54,6 +65,18 @@ Effort Estimation: 4-6 person-hours
 
 Acceptance Test: A diverse set of at least 6 unique abilities that will provide us (the users) with a good amount of ways to customize our character to fit our play style.
 
+## 5.1:
+As a consumer I would like to see useful abilities in the ability library.
+
+Elaboration:
+I would like to see useful abilities that will have an impact on the gameplay. For example please don't add a levetation ability if there are not any pits in the floor for the player to fall in or an ability that heals companians if there are no companians in the current version of the game.
+
+Constraints: None
+
+Effort Estimation: 1-2 on top of the 4-6 from the previous story
+
+Acceptance: Abilities that will have a least 3 uses in the game.
+
 ## 6: UI
 As a consumer I would like to see a user interface that is beneficial for the game and gives enough information regarding stats and cooldowns.
 
@@ -65,4 +88,23 @@ Effort Estimation: 4-8 Person-hours
 
 Acceptance Test: A UI that takes up no more than 1/8th of the screen but can still provide all the neccesary game information to make it effective.
 
+## 7: Enviroment
+As a consumer I would like to see an engaging enviroment where the levels make sense with the theme of the game.
 
+Elaboration: Some modern games can have engaging characters but fail to have and enviroment that the player can really imerse themselves in with those characters. I would like to see a character that engages well with the enviroment and an envirment that we, as the playerbase, can feel connected to through the character.
+
+Effort Estimation: 8-12 hours
+
+Constraints: none
+
+Acceptance: A character that fits well into the enviroment and an enviroment that the character can connect to.
+
+## 8: Enemies
+
+As a consumer I would prefer to not see the typical enemies that most games tend to have.
+
+Elaboration: Most games have a bandit, ghost, or skeleton, I would prefer to see enemies that work well with the enviroment. If we are in a castle some knights would work or maybe a wizard. Granted if we are in a dungeon a skeleton would make sense but if we are in the woods a skeleton would more than likely not be wondering around.
+
+Constaints: None
+
+Acceptance Test: Enemies that would naturally be in a given enviroment and different enemies as the enviroment changes.
