@@ -1,7 +1,7 @@
 ![ArchitectureDiagram](https://user-images.githubusercontent.com/78187057/113372316-9d79a480-9325-11eb-94da-b868a2de5189.JPG)
 
 ## About Our Architecture Diagram
-Within the diagram, each and every element is interlinked in one way or another, with server side objects sending data to client side objects, before those client side objects send data to the in-game objects and vice versa. To help understand the diagram a little bit more, a key for the diagram itself has been included below, to illustrate which shape represent what.
+Within the diagram, each and every element is interlinked in one way or another, with server side objects sending data to client side objects, before those client side objects send data to the in-game objects and vice versa. The player controller first begins by joining the gamestate and gamemode. This is considered the source server and is where all data, input, subscribers, and other forms of code is sent back and forth to be processed. Note that the player controller and AI controller "possess" the pawn object. This allows objects such as pawn actors to be controlled (possessed) by different controllers in order to represent physical objects within the game. To help understand the diagram a little bit more, a key for the diagram itself has been included below, to illustrate which shape represent what.
 
 ![KeyArt](https://user-images.githubusercontent.com/78187057/113372704-7cfe1a00-9326-11eb-8c67-cfe07fb4f2a0.JPG)
 
