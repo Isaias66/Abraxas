@@ -25,3 +25,10 @@ Performance- In this project we wanted to be able to keep track of all changing 
 
 
 ## Conclusion
+
+Our architectural style is a combination of Client-Server and Publish-Subscribe. 
+Possible Issues:
+- Too complex/convoluted
+- Constantly changing
+- Difficult to gauge the aspects of data
+- Constant maintenance is required to monitor status of the game 
