@@ -15,6 +15,9 @@ Performance- In this project we wanted to be able to keep track of all changing 
 
 ## Architectural Style Choices
 
+- Client-Server
+
+- Publish-Subscribe
 
 
 
