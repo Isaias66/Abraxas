@@ -15,7 +15,7 @@ Performance- In this project we wanted to be able to keep track of all changing 
 
 ## Architectural Style Choices
 
-- Client-Server
+- Client-Server: This architecture is beneficial for our project because it allows the gamestate to constantly send and receive requests based on inputs. This also allows our data to be centralize in a single engine. This directly allows us to modify the code or assests at a low computational cost. This can also be very easy to manage all of our data and code as it is located on a singular source.
 
 - Publish-Subscribe
 
