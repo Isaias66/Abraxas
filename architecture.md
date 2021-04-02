@@ -8,10 +8,14 @@ The project will consist of 2-3 different floors, each floor consisting of the l
 
 ## Key Architectural Drivers
 
+Flexibility - All the data and code that is created in our project exists in one engine. This allows us to easily modify our code, assets, blueprints, or any other aspects without relying on external sources. (e.g. Blender, Zaz)
+
+
+Performance- In this project we wanted to be able to keep track of all changing events and data as the game progresses. To maintain efficiency we chose a single engine to design our project so we can edit our code without the sacrifice of performance. 
+
 ## Architectural Style Choices
 
-Flexibility - All the data and code that is created in our project exists in one engine. This allows us to easily modify our code, assets, blueprints, or any other aspects without relying on external sources. (e.g. Blender, Zaz)
-Performance- In this project we wanted to be able to keep track of all changing events and data as the game progresses. To maintain efficiency we chose a single engine to design our project so we can edit our code without the sacrifice of performance. 
+
 
 
 ## Our Architecture (Client-Server/Publish-Subscribe)
