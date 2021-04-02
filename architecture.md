@@ -17,7 +17,7 @@ Performance- In this project we wanted to be able to keep track of all changing 
 
 - Client-Server: This architecture is beneficial for our project because it allows the gamestate to constantly send and receive requests based on inputs. This also allows our data to be centralize in a single engine. This directly allows us to modify the code or assests at a low computational cost. This can also be very easy to manage all of our data and code as it is located on a singular source. Another advantage of this architecture is that it allows for the implementation of more local servers which can compliment each other during runtimes or performances.
 
-- Publish-Subscribe
+- Publish-Subscribe: We chose this second architecture in order to accomadate for some of the weaknesses of the client-server style. The benefits of choosing this architecture style is that provides low coupling and better testability. This is very impearative for our project since we are constantly modifying our data and assests, so it is crucial to test daily and change as needed. This creates more flexability and accounts for the client-server's weakness of low testability. This architecture style also helps simplifies certain data that is being processed or code that is being modified in our game. 
 
 
 
