@@ -1,1 +1,8 @@
+![ArchitectureDiagram](https://user-images.githubusercontent.com/78187057/113372316-9d79a480-9325-11eb-94da-b868a2de5189.JPG)
 
+## About Our Architecture Diagram
+Within the diagram, each and every element is interlinked in one way or another, with server side objects sending data to client side objects, before those client side objects send data to the in-game objects and vice versa. To help understand the diagram a little bit more, a key for the diagram itself has been included below, to illustrate which shape represent what.
+
+![KeyArt](https://user-images.githubusercontent.com/78187057/113372704-7cfe1a00-9326-11eb-8c67-cfe07fb4f2a0.JPG)
+
+Alongside the various shapes, there are arrows present, the lines themselves represent the connection between different objects that send data between themselves, then the arrow head represents which direction the data is being sent, if there are two arrow heads, then data can be sent both ways between the objects.
