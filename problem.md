@@ -10,7 +10,7 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 - **Functionality:** AI is implemented in the form of enemies. Different abilities, both offensive and defensive are implemented to help the player get through each level. Different mechanics are implemented with each level, these mechanics are talked about in more detail in a lower section.
 
 
-- **Level Structure:** Level pathing will take a vertical and linear branch form. Each level will consist of 3 floors filled with different tasks and challenges. This will encourage some exploration and different routes to take while navigating through the level. Many hazards and enemies will be scattered through the level and it will be up to the player to successfully transition between each level. There will also be different moving platforms that will move in certain patterns in order to create a sense of familiarity. 
+- **Level Structure:** Level pathing will take a vertical and linear branch form. Each level will consist of 6 floors filled with different tasks and challenges. This will encourage some exploration and different routes to take while navigating through the level. Many hazards and enemies will be scattered through the level and it will be up to the player to successfully transition between each level. There will also be different moving platforms that will move in certain patterns in order to create a sense of familiarity. 
 
 
 ![Level 1](https://user-images.githubusercontent.com/77936719/110409267-3cbbbc80-8044-11eb-9397-f9165bbf70ad.png)
