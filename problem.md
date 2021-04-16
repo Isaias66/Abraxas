@@ -23,7 +23,8 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 
 
   -Fireball
-  ![Fireball](https://user-images.githubusercontent.com/77936719/110410225-c7e98200-8045-11eb-9085-f81c57f07273.png)
+  ![CurrentFireball](https://user-images.githubusercontent.com/77936719/115085557-f588dd00-9ec7-11eb-97af-430363accc57.png)
+
 
   -Blessed Ground
   ![Healing](https://user-images.githubusercontent.com/77936719/110410482-2e6ea000-8046-11eb-90f4-9ab2b3b1e704.png)
