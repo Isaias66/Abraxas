@@ -32,7 +32,7 @@ Effort Estimation: 2 person-hours
 
 Acceptance Test: Demonstrate the drag and drop aspect of the ability system. The hotbar should also be customizable depending on the player's desire and comfort.
 
-## Ability Reliability
+## 2:1 Ability Reliability
 As game reviewer I would like to see smooth and easy to use controls that helps support the games overall feel.
 
 Elaboration: Players should be able to use different abilities within the cooldown. None of the cooldowns should be excessive and encourage different styles of play. 
