@@ -39,7 +39,8 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 
   
   -Dash Ability
-  
+  ![CurrentDash](https://user-images.githubusercontent.com/77936719/115087112-d3448e80-9eca-11eb-9cfe-887471ab58c7.png)
+
   
   -Speed Boost Ability
 
