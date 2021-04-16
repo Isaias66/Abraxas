@@ -27,7 +27,8 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 
 
   -Blessed Ground
-  ![Healing](https://user-images.githubusercontent.com/77936719/110410482-2e6ea000-8046-11eb-90f4-9ab2b3b1e704.png)
+  ![CurrentHea;](https://user-images.githubusercontent.com/77936719/115085878-82cc3180-9ec8-11eb-8e28-045ceaa7ed99.png)
+
   
   -Buff Ability (Defense)
   ![Screenshot (13)](https://user-images.githubusercontent.com/77936719/110410519-3dede900-8046-11eb-91ec-1c17b1f08fea.png)
