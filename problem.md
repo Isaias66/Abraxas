@@ -13,7 +13,8 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 - **Level Structure:** Level pathing will take a vertical and linear branch form. Each level will consist of 6 floors filled with different tasks and challenges. This will encourage some exploration and different routes to take while navigating through the level. Many hazards and enemies will be scattered through the level and it will be up to the player to successfully transition between each level. There will also be different moving platforms that will move in certain patterns in order to create a sense of familiarity. 
 
 ![CurrentMapPic](https://user-images.githubusercontent.com/77936719/115085036-008f3d80-9ec7-11eb-9e07-34520711de98.JPG)
-![TrueInsideView](https://user-images.githubusercontent.com/77936719/110412733-e6ea1300-8049-11eb-942a-256ce87f2bc3.png)
+![CurrentInsideView](https://user-images.githubusercontent.com/77936719/115085191-4d731400-9ec7-11eb-8136-5115b01e92e5.JPG)
+
 
 
 - **Abilities:** There will be a total of 8-9 abilities within this game. Each ability has certain aspects such as projectiles, DeBuffs, AoE, and Buffs to assist the player through the level. Many of these abilities will intertwine with the unique mechanic for each level. The UI for these abilities will be displayed in the bottom center of the player screen and are completely interactable by simply clicking on the ability's icon. Above the ability UI, there will also be a health and a power bar. These gauges will provide the player with a sense of strategy and planning on how they wish to use their powers.  
