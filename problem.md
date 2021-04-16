@@ -35,7 +35,8 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 
   
   -Debuff Ability
-  
+  ![CurrentDebuff](https://user-images.githubusercontent.com/77936719/115086274-2a496400-9ec9-11eb-990f-e803387d6e21.png)
+
   
   -Dash Ability
   
