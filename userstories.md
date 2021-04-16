@@ -32,6 +32,15 @@ Effort Estimation: 2 person-hours
 
 Acceptance Test: Demonstrate the drag and drop aspect of the ability system. The hotbar should also be customizable depending on the player's desire and comfort.
 
+## Ability Reliability
+As game reviewer I would like to see smooth and easy to use controls that helps support the games overall feel.
+
+Elaboration: Players should be able to use different abilities within the cooldown. None of the cooldowns should be excessive and encourage different styles of play. 
+
+Constraints: None
+
+Effort Estimation: 5 person-hours
+
 ## 3: Graphic/FX
 As an adventure gamer, I would be happy to see the implementation of advanced or creative special effects. I would like to see these neat graphics with the ability system and would appreciate time taken into the effects of each ability.
 
