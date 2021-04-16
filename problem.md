@@ -33,6 +33,11 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
   -Buff Ability (Defense)
   ![CurrentBuff](https://user-images.githubusercontent.com/77936719/115086072-cfb00800-9ec8-11eb-9e9c-0ea94cb689be.png)
 
+  
+  -Dash Ability
+  
+  
+  -Speed Boost Ability
 
 
 - **Enemies:** Enemies can be selected with the mouse cursor by the player. This will create a red ring around the enemy's feet letting the player know that this enemy can be attacked. This selector will only allow the player to attack one enemy at a time, making certain strategies more viable. Throughout the level there will be wandering enemies that will recognize the player and attack on sight. It will be up to the player to decide how to approach certain situations and deal with certain levels. This will encourage different play styles where the player may want to run instead of fighting back. 
