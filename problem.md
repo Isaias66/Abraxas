@@ -43,6 +43,7 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 
   
   -Speed Boost Ability
+  ![SpeedBoost](https://user-images.githubusercontent.com/77936719/115087213-fff8a600-9eca-11eb-8877-36c3e1d68e9b.png)
 
 
 - **Enemies:** Enemies can be selected with the mouse cursor by the player. This will create a red ring around the enemy's feet letting the player know that this enemy can be attacked. This selector will only allow the player to attack one enemy at a time, making certain strategies more viable. Throughout the level there will be wandering enemies that will recognize the player and attack on sight. It will be up to the player to decide how to approach certain situations and deal with certain levels. This will encourage different play styles where the player may want to run instead of fighting back. 
