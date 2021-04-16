@@ -48,6 +48,7 @@ There will only be 3 levels consisting of 2 floors per level in our game. These 
 
 - **Enemies:** Enemies can be selected with the mouse cursor by the player. This will create a red ring around the enemy's feet letting the player know that this enemy can be attacked. This selector will only allow the player to attack one enemy at a time, making certain strategies more viable. Throughout the level there will be wandering enemies that will recognize the player and attack on sight. It will be up to the player to decide how to approach certain situations and deal with certain levels. This will encourage different play styles where the player may want to run instead of fighting back. 
 
-![TargetSelector](https://user-images.githubusercontent.com/77936719/110412130-eac96580-8048-11eb-96ef-bcedbfdd5fa9.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/77936719/115087286-1dc60b00-9ecb-11eb-970f-a87f2a54eedc.png)
+
 
 - **Different Mechanics:** Each level will incorporate some sort of new mechanic with it. To give an example, one level may add boost panels that push you in a horizontal direction, while a separate level adds a bounce panel, which is functionally the same to the boost panel, but works instead with vertical movement instead of the horizontal movement of the boost panel. Each level will be locked until the player finishes the given task or challenge. These are a couple of examples of the mechanics that would be added between levels.
