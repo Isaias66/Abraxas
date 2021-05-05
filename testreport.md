@@ -6,4 +6,6 @@ Certain abilities were developed and prototyped before being implemented into ou
 
 ## System Testing
 
+During the initial development of our main menu, an option for scalability (graphics) was being tested. This setting would essentially allow the player to chose how the game looked when they were playing the levels. To test the performance on the system during these changes, a basic FPS software was used to determine the status of the system. Observations were also made regarding the lighting of the level and how certain abilities looked in the game. This was beneficially because it informed us how certain aspects of the game behaved and looked in different graphic settings. This was useful as well for catching certain bugs that were not noticeable during the normal native graphics setting Unreal Engine has set. 
+
 ## Acceptance Testing
